@@ -1,6 +1,7 @@
 # shoping_list
+<img src="https://github.com/user-attachments/assets/7f7cfe44-47d0-424e-b940-66050ceb1946" width="358">
 
-![Screenshot_1722585718](https://github.com/user-attachments/assets/4af93fa5-a232-4d73-b3ba-20ef6f9c26e5)
-![Screenshot_1722585737](https://github.com/user-attachments/assets/551bce57-f78b-4f96-b12d-9904d61a11c8)
-![Screenshot_1722585775](https://github.com/user-attachments/assets/8f3dbe8d-6921-4b6e-859d-c749f8d8b134)
-![Screenshot_1722585786](https://github.com/user-attachments/assets/e9d53ed1-dbb5-4855-addf-cca319a18670)
+<img src="https://github.com/user-attachments/assets/995c34b3-f8b3-4cb0-947f-01cdd8d314e6" width="358">
+
+<img src="https://github.com/user-attachments/assets/f83b3c52-cfab-4d03-923b-24c23723e1b2" width="358">
+
